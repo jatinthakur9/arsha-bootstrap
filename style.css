@@ -4,7 +4,9 @@
 
 
 .nnn1{
-    background-color: #47b2e4;
+    background-color: transparent;
+    border-color: white;
+
 }
 
 .nnn3{
@@ -23,4 +25,86 @@
 
 .nnn6{
     background-color: #37517e;
+} 
+.fa-wave-square{
+    margin-left: 20px;
+font-size: xx-large;
+color: #4ab2e4;
+}
+
+
+ .fa-square{
+    margin-left: 20px;
+    font-size: xx-large;
+    color: #4ab2e4;
+ }
+
+
+
+ .fa-calendar-days{
+    margin-left: 20px;
+    font-size: xx-large;
+    color: #4ab2e4;
+
+ }
+
+
+ .fa-tower-broadcast{
+    margin-left: 20px;
+    font-size: xx-large;
+    color: #4ab2e4;
+ }
+
+.nnn8{
+    background-image: url(cta-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 40vh;
+}
+
+
+.fa-x-twitter{
+    background-color: rgb(240, 238, 238);
+    
+}
+
+.fa-facebook{
+    background-color: rgb(240, 238, 238);
+}
+
+.fa-instagram{
+    background-color: rgb(240, 238, 238);
+}
+
+.fa-linkedin{
+    background-color: rgb(240, 238, 238);
+}
+
+.nnn9{
+    color: #4ab2e4;
+}
+
+.nnn10{
+    color: rgb(168, 165, 165);
+}
+
+.fa-check{
+    color: green;
+}
+
+.mm{
+    color: rgb(164, 162, 162);
+}
+
+.bb{
+     color: #4ab2e4;
+     background-color: transparent;
+     border-color:#4ab2e4 ;
+}
+
+
+.nmn{
+    height: 10rem;
+    width: 20% !important;
 }
